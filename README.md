@@ -34,7 +34,7 @@ Featured Projects;
 
 My repositories will showcase my academic projects, practical exercises, and personal software development projects.
 
-Connect With Me;
+Connect With Me
 GitHub: https://github.com/eliudleonard
 LinkedIn: 
 
