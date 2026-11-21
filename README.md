@@ -1,4 +1,4 @@
-Hi, I'm Eliud Leonard
+Hi, I'm Eliud Leonard,
 
 Computer Science Student | Aspiring Full-Stack Developer
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 I'm a Computer Science student passionate about building software solutions, managing databases, and integrating systems to solve real-world problems.
 
-About Me
+About Me;
 
 - Pursuing a Bachelor's degree in Computer Science.
 - Interested in Frontend and Backend    Development.
@@ -15,14 +15,14 @@ About Me
 - Based in Tanzania.
 - Working towards becoming a professional software developer.
 
-Technologies I'm Learning
+Technologies I'm Learning;
 
 - Frontend: HTML, CSS, JavaScript
 - Backend: PHP, Python, Java
 - Databases: MySQL, MariaDB
 - Tools: Git, GitHub, VS Code, XAMPP
 
-Areas of Interest
+Areas of Interest;
 
 - Full-Stack Web Development
 - Database Management Systems
@@ -30,11 +30,11 @@ Areas of Interest
 - Payment System Integration
 - Software Engineering
 
-Featured Projects
+Featured Projects;
 
 My repositories will showcase my academic projects, practical exercises, and personal software development projects.
 
-Connect With Me
+Connect With Me;
 GitHub: https://github.com/eliudleonard
 LinkedIn: 
 
