@@ -1,4 +1,4 @@
-Hi, I'm Eliud Leonard 👋
+Hi, I'm Eliud Leonard
 
 Computer Science Student | Aspiring Full-Stack Developer
 
@@ -36,9 +36,7 @@ My repositories will showcase my academic projects, practical exercises, and per
 
 🤝 Connect With Me
 
-- GitHub: https://github.com/eliudleonard
-- LinkedIn: [Add your LinkedIn profile URL here]
-
----
+GitHub: https://github.com/eliudleonard
+LinkedIn: 
 
 ⭐ Learning, building, improving, and sharing knowledge every day
